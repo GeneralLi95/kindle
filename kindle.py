@@ -193,7 +193,7 @@ for i in range(0,file_list.__len__()):
 
 # 处理index.html
 os.chdir("../")
-f=open("kindle.html",'w',encoding='utf-8')
+f=open("index.html",'w',encoding='utf-8')
 
 # 写入html头内容
 f.write(HTML_HEAD.replace("../",""))
