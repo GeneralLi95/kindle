@@ -23,4 +23,4 @@ copy /Y %pngsrc% %pngdist%
 
 ## 致谢
 
-感谢木子小伙伴，他的博客是 https://muzi502.github.io，所采用的的样式由他重写。
+感谢木子小伙伴，他的博客是 https://muzi502.github.io ，所采用的的样式由他重写。
